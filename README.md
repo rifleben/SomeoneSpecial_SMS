@@ -2,6 +2,8 @@
 
 This is a SMS generator that uses OpenAI's GPT-3 API to generate text messages from the perspective of a friend who cares for someone very much. It also has a user interface built with tkinter that allows users to input a phone number and send the generated message to that phone number via the Twilio API.
 
+![](https://github.com/rifleben/SomeoneSpecial_SMS/blob/main/someone_special.gif)
+
 ## Requirements
 - A OpenAI API key
 - A Twilio account and API keys
